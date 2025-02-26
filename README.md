@@ -1,4 +1,4 @@
 # COSDP
  ChromeOS Delinquent Preservation
 
-> [!CAUTION] apple
+> [!CAUTION] apples
